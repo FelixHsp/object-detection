@@ -52,4 +52,3 @@ python object_detection/builders/model_builder_tf2_test.py
 
 #### 模型配置及训练
 进入code文件夹，使用Jupyter Notebook打开Tutorial.ipynb，跟着执行每一步即可- -。
-
